@@ -93,6 +93,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any questions or issues, please contact:
 - **Chirag Patankar**
-- Email: [YourEmail@example.com]
-- GitHub: [YourGitHubUsername]
+- Email: [officialchiragp1605@gmail.com]
+- GitHub: [ChiragPatankar]
 
