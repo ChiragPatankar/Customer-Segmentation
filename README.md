@@ -102,14 +102,14 @@ For any questions or issues, please contact:
 ![Age vs Customer Lifetime Value](output_images/Figure_1.webp)
 
 ### 2. Feature Importance Heatmap
-![Feature Importance Heatmap](output_images/feature_importance_heatmap.png)
+![Feature Importance Heatmap](output_images/Figure_2.webp)
 
 ### 3. Transaction Patterns Box Plot
-![Transaction Patterns Box Plot](output_images/transaction_patterns_boxplot.png)
+![Transaction Patterns Box Plot](output_images/Figure_3.webp)
 
 ### 4. Income Distribution Stacked Bar Chart
-![Income Distribution](output_images/income_distribution.png)
+![Income Distribution](output_images/Figure_4.webp)
 
 ### 5. Segment Size Distribution
-![Segment Size Distribution](output_images/segment_size_distribution.png)
+![Segment Size Distribution](output_images/Figure_5.webp)
 
