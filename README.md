@@ -96,5 +96,20 @@ For any questions or issues, please contact:
 - Email: [officialchiragp1605@gmail.com]
 - GitHub: [ChiragPatankar]
 
-#Output:
+## Visualizations
+
+### 1. Age vs Customer Lifetime Value Scatter Plot
+![Age vs Customer Lifetime Value](output_images/figure_1.webp)
+
+### 2. Feature Importance Heatmap
+![Feature Importance Heatmap](output_images/feature_importance_heatmap.png)
+
+### 3. Transaction Patterns Box Plot
+![Transaction Patterns Box Plot](output_images/transaction_patterns_boxplot.png)
+
+### 4. Income Distribution Stacked Bar Chart
+![Income Distribution](output_images/income_distribution.png)
+
+### 5. Segment Size Distribution
+![Segment Size Distribution](output_images/segment_size_distribution.png)
 
