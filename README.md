@@ -99,7 +99,7 @@ For any questions or issues, please contact:
 ## Visualizations
 
 ### 1. Age vs Customer Lifetime Value Scatter Plot
-![Age vs Customer Lifetime Value](output_images/figure_1.webp)
+![Age vs Customer Lifetime Value](output_images/Figure_1.webp)
 
 ### 2. Feature Importance Heatmap
 ![Feature Importance Heatmap](output_images/feature_importance_heatmap.png)
