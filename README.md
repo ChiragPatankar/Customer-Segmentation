@@ -33,7 +33,7 @@ The project uses a synthetic dataset containing customer details such as demogra
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/ChiragPatankar/Customer-Segmentation.git)>
    ```
 2. Navigate to the project directory:
    ```bash
